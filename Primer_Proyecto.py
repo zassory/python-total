@@ -17,3 +17,6 @@ print("G"+"  H"+" \tI");
 
 print("Barra Normal /");
 print("Barra Invertida: \\");
+
+print("Dime tu nombre: ")
+print("Dime tu apellido: ")
